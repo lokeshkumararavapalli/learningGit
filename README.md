@@ -1,3 +1,3 @@
-# learning git
+# Learning git
 
 This repo is just for practicing git commands
